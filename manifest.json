@@ -1,0 +1,10 @@
+{
+  "name": "silly_http",
+  "displayName": "Silly HTTP External API",
+  "author": "YourName",
+  "version": "1.0.0",
+  "entry": "silly_http.py",
+  "requires": ["server"],
+  "type": "python",
+  "description": "为 SillyTavern 提供 HTTP API 接口"
+}
