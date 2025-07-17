@@ -4,7 +4,7 @@
   "author": "YourName",
   "version": "1.0.0",
   "entry": "silly_http.py",
-  "requires": ["server"],
+  "requires": [],
   "type": "python",
   "description": "为 SillyTavern 提供 HTTP API 接口"
 }
